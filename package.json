@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "sphericalmercator": "1.0.x",
-    "@carto/mapnik": "3.6.2-carto.8",
+    "@carto/mapnik": "github:Algunenano/node-mapnik#cache_move",
     "d3-queue": "^2.0.2"
   },
   "devDependencies": {
